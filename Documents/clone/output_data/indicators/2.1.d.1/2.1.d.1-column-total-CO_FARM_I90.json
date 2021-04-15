@@ -1,0 +1,326 @@
+{
+    "categories": [
+        "EU27*"
+    ],
+    "data": [
+        {
+            "year": 1990,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        100.0
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1991,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        98.71
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1992,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        97.46
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1993,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        96.41
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1994,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        95.41
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1995,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        94.36
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1996,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        93.11
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1997,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        91.59
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1998,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        89.87
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1999,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        88.06
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2000,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        86.25
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2001,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        84.57
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2002,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        83.09
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2003,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        81.73
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2004,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        80.42
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2005,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        79.18
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2006,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        78.04
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2007,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        77.06
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2008,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        76.2
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2009,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        75.41
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2010,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        74.71
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2011,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        74.09
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2012,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        73.56
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2013,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        73.11
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2014,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        72.75
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2015,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        72.48
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2016,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        72.27
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2017,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        72.14
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2018,
+            "series": [
+                {
+                    "name": "common farmland birds (index, 1990=100)",
+                    "data": [
+                        72.01
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "categories": [
+        "EU27*"
+    ],
+    "data": [
+        {
+            "year": 1990,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        103.17
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1991,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        103.69
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1992,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        103.95
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1993,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        104.05
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1994,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        104.02
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1995,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        103.9
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1996,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        103.72
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1997,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        103.23
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1998,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        102.31
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 1999,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        101.16
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2000,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        100.0
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2001,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        99.01
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2002,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        98.39
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2003,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        98.05
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2004,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        97.77
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2005,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        97.58
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2006,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        97.52
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2007,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        97.63
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2008,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        97.87
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2009,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        98.25
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2010,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        98.73
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2011,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        99.33
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2012,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        100.06
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2013,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        100.91
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2014,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        101.9
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2015,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        103.01
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2016,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        104.28
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2017,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        105.68
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2018,
+            "series": [
+                {
+                    "name": "common forest birds (index, 2000=100)",
+                    "data": [
+                        107.08
+                    ]
+                }
+            ]
+        }
+    ]
+}

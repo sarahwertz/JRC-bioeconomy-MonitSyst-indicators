@@ -1,0 +1,1444 @@
+{
+    "objectives": [
+        {
+            "id": "1",
+            "name": "Ensuring Food and Nutrition Security",
+            "normative_criteria": [
+                {
+                    "id": "1.1",
+                    "name": "Food security and nutrition are supported",
+                    "key_components": [
+                        {
+                            "id": "1.1.a",
+                            "name": "Availability",
+                            "indicators": [
+                                {
+                                    "id": "1.1.a.1",
+                                    "name": "Agricultural factor income per annual work unit (AWU)",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "1.1.a.2",
+                                    "name": "New food products (by sector)",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "1.1.a.3",
+                                    "name": "New food value chains (by sector)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "1.1.a.4",
+                                    "name": "Total biomass supply for food purposes, including inputs",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "1.1.a.5",
+                                    "name": "Biomass directly consumed by humans by source (animal, fish, plant-based, algae)",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "Agriculture, fisheries, aquaculture and algae"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.1.b",
+                            "name": "Access",
+                            "indicators": [
+                                {
+                                    "id": "1.1.b.1",
+                                    "name": "Prevalence of moderate or severe food insecurity in the total population, yearly estimates",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "1.1.b.2",
+                                    "name": "Average dietary energy supply adequacy",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.1.c",
+                            "name": "Utilisation",
+                            "indicators": [
+                                {
+                                    "id": "1.1.c.1",
+                                    "name": "Daily calorie supply per capita by source",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "1.1.c.2",
+                                    "name": "Indicator concerning food quality, or food safety",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "1.1.c.3",
+                                    "name": "Animal welfare",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.1.d",
+                            "name": "Stability",
+                            "indicators": [
+                                {
+                                    "id": "1.1.d.1",
+                                    "name": "Government support to research and development (by sector)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Agriculture, fisheries, aquaculture and algae"
+                                },
+                                {
+                                    "id": "1.1.d.2",
+                                    "name": "Food purchasing power",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "1.1.d.3",
+                                    "name": "Import dependency ratio of food (import/domestic production)",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "1.1.d.4",
+                                    "name": "Value of food imports over total merchandise exports ",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "1.1.d.5",
+                                    "name": "EU’s self-sufficiency rate on protein for feed",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "name": "Local economies, societies and environmental conditions of countries exporting food to the EU are not hampered but rather harnessed by the trade of raw and processed biomass and related technologies",
+                    "key_components": [
+                        {
+                            "id": "1.2.a",
+                            "name": "Economic impact of trade in exporting countries of food (to EU)",
+                            "indicators": [
+                                {
+                                    "id": "1.2.a.1",
+                                    "name": "Economic impact of trade in exporting countries of food (to EU)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "No distinction possible"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.2.b",
+                            "name": "Environmental footprints in exporting countries of food (to EU)",
+                            "indicators": [
+                                {
+                                    "id": "1.2.b.1",
+                                    "name": "Environmental footprints in exporting countries of food (to EU)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "No distinction possible"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.2.c",
+                            "name": "Social impact of trade in exporting countries of food (to EU)",
+                            "indicators": [
+                                {
+                                    "id": "1.2.c.1",
+                                    "name": "Social impact of trade in exporting countries of food (to EU)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "No distinction possible"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Managing Natural Resources Sustainably",
+            "normative_criteria": [
+                {
+                    "id": "2.1",
+                    "name": "Ecosystem capacity to produce services is maintained or enhanced ",
+                    "key_components": [
+                        {
+                            "id": "2.1.a",
+                            "name": "Environmental quality",
+                            "indicators": [
+                                {
+                                    "id": "2.1.a.1",
+                                    "name": "Biochemical oxygen demand in rivers",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.1.a.2",
+                                    "name": "Phosphate in rivers",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.1.a.3",
+                                    "name": "Phosphorus in lakes",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.1.a.4",
+                                    "name": "Nitrate in groundwater",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.1.a.5",
+                                    "name": "Nitrate in rivers",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.1.a.6",
+                                    "name": "Nutrients in transitional, coastal and marine waters",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.1.a.7",
+                                    "name": "Bathing water quality",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.1.a.8",
+                                    "name": "Exposure of forest area to ozone in EEA member countries",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.1.a.9",
+                                    "name": "Exceedance of air quality standards in urban areas",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2.1.b",
+                            "name": "Structural and functional ecosystem attributes",
+                            "indicators": [
+                                {
+                                    "id": "2.1.b.1",
+                                    "name": "Percentage area of urban green space (or percentage of natural area within the city boundaries)",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "2.1.b.2",
+                                    "name": "Landscape fragmentation Index",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "2.1.b.3",
+                                    "name": "Share of High Nature Value farmland in agricultural area",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "2.1.b.4",
+                                    "name": "Share of organic farming in utilised agricultural area",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "2.1.b.5",
+                                    "name": "Livestock density index",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "2.1.b.6",
+                                    "name": "Forest fragmentation and connectivity index",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.1.b.7",
+                                    "name": "Deadwood",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.1.b.8",
+                                    "name": "Share of forest area",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.1.b.9",
+                                    "name": "Forest and other wooded land growing stock",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.1.b.10",
+                                    "name": "Ecological status of European waters",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.1.b.11",
+                                    "name": "Fish stock biomass in NE Atlantic & Mediterranean",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Fisheries and aquaculture"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2.1.d",
+                            "name": "Species diversity and abundance",
+                            "indicators": [
+                                {
+                                    "id": "2.1.d.1",
+                                    "name": "Bird and butterfly indices EU aggregate (common farmland bird Index, common forest bird index, grassland butterfly index)",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "2.1.d.2",
+                                    "name": "Age and size distribution of commercially-exploited fish species",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Fisheries and aquaculture"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2.1.e",
+                            "name": "Conservation status of habitats and species",
+                            "indicators": [
+                                {
+                                    "id": "2.1.e.1",
+                                    "name": "Surface of marine and terrestrial sites designated under NATURA 2000",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "2.1.e.2",
+                                    "name": "Conservation Status of European Habitats",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "2.1.e.3",
+                                    "name": "Conservation status of grassland",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "2.1.e.4",
+                                    "name": "Threatened tree species in forests",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "name": " Primary production sectors are managed sustainably",
+                    "key_components": [
+                        {
+                            "id": "2.2.a",
+                            "name": "Pressures from Forest Management",
+                            "indicators": [
+                                {
+                                    "id": "2.2.a.1",
+                                    "name": "Long term ratio of annual fellings (m3/ha/year) to net annual increment (m3/ha/year)",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.2.a.2",
+                                    "name": "Fraction of primary residues remaining in forest",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.2.a.3",
+                                    "name": "Change in ecosystems extent: Forest and woodland",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.2.a.4",
+                                    "name": "Land use / land cover type taken over by forest",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.2.a.5",
+                                    "name": "Number of annual introductions of invasive alien species in forests",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "2.2.a.6",
+                                    "name": "Certified forests",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2.2.b",
+                            "name": "Pressures from marine fisheries & aquaculture management",
+                            "indicators": [
+                                {
+                                    "id": "2.2.b.1",
+                                    "name": "Nutrient discharge from fisheries aquaculture",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.2.b.2",
+                                    "name": "Fishing mortality of commercially exploited fish and shellfish exceeding fishing mortality at maximum sustainable yield",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Fisheries and aquaculture"
+                                },
+                                {
+                                    "id": "2.2.b.3",
+                                    "name": "Number of annual introductions of invasive alien species in marine waters",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2.2.c",
+                            "name": "Pressures from freshwater fisheries & aquaculture management",
+                            "indicators": [
+                                {
+                                    "id": "2.2.c.1",
+                                    "name": "Number of annual introductions of invasive alien species in freshwater",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                },
+                                {
+                                    "id": "2.2.c.2",
+                                    "name": "Size of aquaculture production units",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Algae"
+                                },
+                                {
+                                    "id": "2.2.c.3",
+                                    "name": "Number of integrated multi-trophic aquaculture  production units   ",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Algae"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2.2.d",
+                            "name": "Pressures from agroecosystems",
+                            "indicators": [
+                                {
+                                    "id": "2.2.d.1",
+                                    "name": "Ammonia emissions from agriculture ",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "2.2.d.2",
+                                    "name": "Land use / land cover type taken over by agricultural land",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "2.2.d.3",
+                                    "name": "Change in ecosystems extent: cropland & grassland",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "2.2.d.4",
+                                    "name": "Number of annual introductions of invasive alien species in agroecosystems",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "2.2.d.5",
+                                    "name": "Intensification of farming (share of high, medium and low input farms in UAA)",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "2.2.d.6",
+                                    "name": "Sales of pesticides",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "name": "Ecosystem services contribution to human well-being is maintained or enhanced",
+                    "key_components": [
+                        {
+                            "id": "2.3.a",
+                            "name": "Provisioning services",
+                            "indicators": [
+                                {
+                                    "id": "2.3.a.1",
+                                    "name": "Biomass production in EU from primary production sectors (agriculture, forests, fisheries, algae, waste)",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "2.3.a.2",
+                                    "name": "Roundwood removals",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Forestry"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2.3.b",
+                            "name": "Regulating services",
+                            "indicators": [
+                                {
+                                    "id": "2.3.b.1",
+                                    "name": "Flood regulation (flood control, flow, demand, potential, unment demand, monetary values)",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "2.3.b.2",
+                                    "name": "Air quality",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "2.3.b.3",
+                                    "name": "Net ecosystem productivity",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2.3.c",
+                            "name": "Cultural services",
+                            "indicators": [
+                                {
+                                    "id": "2.3.c.1",
+                                    "name": "Aesthetics considerations of nature",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "2.3.c.2",
+                                    "name": "Recreational services (recreation, flow, demand, potential )",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Reducing Dependence on Non-renewable Unsustainable Resources",
+            "normative_criteria": [
+                {
+                    "id": "3.1",
+                    "name": "Resource efficiency, waste prevention and waste-re-use along the whole bioeconomy value chain is improved",
+                    "key_components": [
+                        {
+                            "id": "3.1.a",
+                            "name": "Resource efficiency (Material footprint)",
+                            "indicators": [
+                                {
+                                    "id": "3.1.a.1",
+                                    "name": "Domestic Material Consumption (Biomass) ",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.1.a.2",
+                                    "name": "Material Footprint (Biomass)",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.1.a.3",
+                                    "name": "Land footprint IN EU of EU consumption (for non-food&feed)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "No distinction possible"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.1.b",
+                            "name": "Energy efficiency",
+                            "indicators": [
+                                {
+                                    "id": "3.1.b.1",
+                                    "name": "Energy productivity",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "3.1.b.2",
+                                    "name": "Share of renewable energy in gross final energy consumption",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "3.1.b.3",
+                                    "name": "Share of renewable energy in gross final energy consumption of bio based industries or bioenergy industries",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.1.c",
+                            "name": "Biogenic waste prevention, re-use/recycling, and recovery",
+                            "indicators": [
+                                {
+                                    "id": "3.1.c.1",
+                                    "name": "Cascading factor of wood resources",
+                                    "value_chain_step": "Disposal, Cascading, Recycling, Reuse",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "3.1.c.2",
+                                    "name": "Circular material rate",
+                                    "value_chain_step": "Disposal, Cascading, Recycling, Reuse",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.1.c.3",
+                                    "name": "Final Energy Consumption from renewable municipal waste",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.1.c.4",
+                                    "name": "Recycling rate of bio-waste ",
+                                    "value_chain_step": "Disposal, Cascading, Recycling, Reuse",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.1.c.5",
+                                    "name": "Energy from biomass waste or residues",
+                                    "value_chain_step": "Disposal, Cascading, Recycling, Reuse",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "3.1.c.6",
+                                    "name": "Products from biomass waste or residues",
+                                    "value_chain_step": "Disposal, Cascading, Recycling, Reuse",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "name": "Food loss and waste is minimised and, when unavoidable, its biomass is reused or recycled",
+                    "key_components": [
+                        {
+                            "id": "3.2.a",
+                            "name": "Food loss and waste minimization",
+                            "indicators": [
+                                {
+                                    "id": "3.2.a.1",
+                                    "name": "Food loss index",
+                                    "value_chain_step": "Disposal, Cascading, Recycling, Reuse",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.2.a.2",
+                                    "name": "JRC Food waste indicator",
+                                    "value_chain_step": "Disposal, Cascading, Recycling, Reuse",
+                                    "primary_production_sector": "No distinction possible"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "name": "Bioeconomy should promote sustainable production and consumption of biomass and bio-based products (within EU)",
+                    "key_components": [
+                        {
+                            "id": "3.3.a",
+                            "name": "Bio-based products environmental impacts",
+                            "indicators": [
+                                {
+                                    "id": "3.3.a.3",
+                                    "name": "Environmental impacts based on product-based LCA and basket of representative products of the bioeconomy",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3.4",
+                    "name": "Consumption patterns of bioeconomy goods match sustainable supply levels of biomass",
+                    "key_components": [
+                        {
+                            "id": "3.4.a",
+                            "name": "Consumption and demand for biomass and bio-based products",
+                            "indicators": [
+                                {
+                                    "id": "3.4.a.1",
+                                    "name": "Import dependencies for energy (wood,biofuels, bioenergy)",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "3.4.a.2",
+                                    "name": "Total biomass consumed for energy",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.4.a.3",
+                                    "name": "Total biomass consumed for materials",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.4.a.4",
+                                    "name": "Share of woody biomass used for energy",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "Forestry"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.4.b",
+                            "name": "Production of bio-based products",
+                            "indicators": [
+                                {
+                                    "id": "3.4.b.1",
+                                    "name": "Liquid biofuels production (bioethanol, pure biogasoline, biodiesel, bio jet kerosene and other liquid biofuels)",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "3.4.b.2",
+                                    "name": "Biogasses (indigenous) production",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "Agriculture, fisheries, aquaculture and algae"
+                                },
+                                {
+                                    "id": "3.4.b.3",
+                                    "name": "Production of bio-based materials (plastics, textiles, chemicals)",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.4.b.4",
+                                    "name": "Advanced biofuels production",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "No distinction possible"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.4.c",
+                            "name": "Reduced dependence on non-renewable resources",
+                            "indicators": [
+                                {
+                                    "id": "3.4.c.1",
+                                    "name": "Share of renewables for transport, electricity and heating & cooling",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "3.4.c.2",
+                                    "name": "Total consumption of energy, including fossil-based",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "3.4.c.3",
+                                    "name": "Share of wood-based constructions",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "3.4.c.4",
+                                    "name": "Share of consumption of bio-based plastics, textiles and chemicals",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "No distinction possible"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3.5",
+                    "name": "Local economies of countries exporting non-food commodities to the EU are not hampered but rather harnessed by the trade of raw and processed biomass and related technologies",
+                    "key_components": [
+                        {
+                            "id": "3.5.a",
+                            "name": "Economic impact of trade in exporting countries of non-food (to EU)",
+                            "indicators": [
+                                {
+                                    "id": "3.5.a.1",
+                                    "name": "Economic impact of trade in exporting countries of non-food (to EU)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.5.b",
+                            "name": "Environmental footprints in exporting countries of non-food (to EU)",
+                            "indicators": [
+                                {
+                                    "id": "3.5.b.1",
+                                    "name": "Environmental footprints in exporting countries of non-food (to EU)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.5.c",
+                            "name": "Social impact of trade in exporting countries of non-food (to EU)",
+                            "indicators": [
+                                {
+                                    "id": "3.5.c.1",
+                                    "name": "Social impact of trade in exporting countries of non-food (to EU)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3.6",
+                    "name": "The sustainability of urban centres is enhanced",
+                    "key_components": [
+                        {
+                            "id": "3.6.a",
+                            "name": "Enhanced well-being and health of urban dwellers",
+                            "indicators": [
+                                {
+                                    "id": "3.6.a.1",
+                                    "name": "Self-assessed satisfaction with recreational and green areas",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "3.6.a.2",
+                                    "name": "Self-assessed satisfaction with living environment",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "3.6.a.3",
+                                    "name": "Self-assessed overall life satisfaction",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Mitigating and Adapting to Climate Change",
+            "normative_criteria": [
+                {
+                    "id": "4.1",
+                    "name": "Climate change mitigation and adaptation are pursued",
+                    "key_components": [
+                        {
+                            "id": "4.1.a",
+                            "name": "Climate change mitigation",
+                            "indicators": [
+                                {
+                                    "id": "4.1.a.1",
+                                    "name": "net GHG emissions (emissions and removals) from bioenergy (absolute and relative vs. total sector emissions)",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "4.1.a.2",
+                                    "name": "net GHG emissions (emissions and removals) from   BBI (absolute and relative vs. total industrial emissions)",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "4.1.a.3",
+                                    "name": "net GHG emissions (emissions and removals) from agriculture",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "4.1.a.4",
+                                    "name": "net GHG emissions (emissions and removals) from bio-waste (absolute and relative vs. total waste emissions)",
+                                    "value_chain_step": "Disposal, Cascading, Recycling, Reuse",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "4.1.a.5",
+                                    "name": "GHG emissions from fishing and aquaculture ",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Fisheries and aquaculture"
+                                },
+                                {
+                                    "id": "4.1.a.6",
+                                    "name": "net GHG emissions (emissions and removals) from LULUCF",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "4.1.a.7",
+                                    "name": "Financial support to bio-based sectors (climate action)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.1.b",
+                            "name": "Climate change adaptation",
+                            "indicators": [
+                                {
+                                    "id": "4.1.b.1",
+                                    "name": "Climate change indices (country level precipitation and temp)",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "4.1.b.2",
+                                    "name": "Crop yield (3 main crops)",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "4.1.b.3",
+                                    "name": "Water exploitation index (WEI)",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "4.1.b.4",
+                                    "name": "Soil moisture (seasonal average)",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "4.1.b.5",
+                                    "name": "Soil erosion / desertification",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "4.1.b.6",
+                                    "name": "Soil organic carbon content",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "4.1.b.7",
+                                    "name": "Adaptation in agriculture, share of farmers with CAP risk management tools (insurance)",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "4.1.b.8",
+                                    "name": "Adaptation in agriculture, share of agricultural land under commitments to improve adaptation (ha)",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "4.1.b.9",
+                                    "name": "Adaptation in agriculture, unsustainable water use: share of irrigated land under commitments to improve water balance",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Agriculture"
+                                },
+                                {
+                                    "id": "4.1.b.10",
+                                    "name": "Adaptation in forest, # fire instances  ",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "4.1.b.11",
+                                    "name": "Adaptation in forest, Burnt area",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "4.1.b.12",
+                                    "name": "Adaptation in forest, Damages due to storm events (forests)",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Forestry"
+                                },
+                                {
+                                    "id": "4.1.b.13",
+                                    "name": "Adaptation in fisheries, potential catch ",
+                                    "value_chain_step": "Stock",
+                                    "primary_production_sector": "Fisheries and aquaculture"
+                                },
+                                {
+                                    "id": "4.1.b.14",
+                                    "name": "MS Preparedeness - Year of adoption of the National Adaptation strategy/Plan (NAS/NAP)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "name": "The sustainability of urban centres is enhanced",
+                    "key_components": [
+                        {
+                            "id": "4.2.a",
+                            "name": "Enhanced resilience/adaptation to climate change for urban areas",
+                            "indicators": [
+                                {
+                                    "id": "4.2.a.1",
+                                    "name": "City preparedness - # cities  signatories of COM - Adaptation",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "4.2.a.2",
+                                    "name": "Investments in urban adaptation  through nature-based infrastructures  or EBA ",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Strengthening European Competitiveness and Creating Jobs",
+            "normative_criteria": [
+                {
+                    "id": "5.1",
+                    "name": "Economic development is fostered",
+                    "key_components": [
+                        {
+                            "id": "5.1.a",
+                            "name": "Contribution of bioeconomy to economic development",
+                            "indicators": [
+                                {
+                                    "id": "5.1.a.1",
+                                    "name": "Contribution of the Bioeconomy to GDP ",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "5.1.a.2",
+                                    "name": "Value Added per sector / Bioeconomy value added ",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.1.a.3",
+                                    "name": "GVA to turnover ratio",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.1.a.4",
+                                    "name": "Economic productivity (GVA/unit of biomass)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.1.a.5",
+                                    "name": "Gross value added per person employed in bioeconomy",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.1.b",
+                            "name": "Value of raw and processed biomass, value added in bioeconomy sectors",
+                            "indicators": [
+                                {
+                                    "id": "5.1.b.1",
+                                    "name": "Turnover in bioeconomy per sector",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.1.b.2",
+                                    "name": "Value-added per sector",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.1.c",
+                            "name": "Exports of EU food and non-food biomass, processed goods and/or related technologies",
+                            "indicators": [
+                                {
+                                    "id": "5.1.c.1",
+                                    "name": "Export value",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.1.c.2",
+                                    "name": "Trade balance (net export)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.1.d",
+                            "name": "Comparative advantage",
+                            "indicators": [
+                                {
+                                    "id": "5.1.d.1",
+                                    "name": "Terms-of-Trade of biomass (export/import)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.1.d.2",
+                                    "name": "Revealed comparative advantage of biomass (Balassa index)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.1.d.3",
+                                    "name": "Number of enterprises in bioeconomy",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.1.d.4",
+                                    "name": "Bioeconomy SME birth & death rates",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "name": "Inclusive economic growth is strengthened",
+                    "key_components": [
+                        {
+                            "id": "5.2.a",
+                            "name": "Employment in bioeconomy",
+                            "indicators": [
+                                {
+                                    "id": "5.2.a.1",
+                                    "name": "Persons employed per bioeconomy sectors",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.2.b",
+                            "name": "Working conditions related to bioeconomy",
+                            "indicators": [
+                                {
+                                    "id": "5.2.b.1",
+                                    "name": "Occupation health and safety in bioeconomy sectors",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.2.c",
+                            "name": "Equality & inclusiveness in bioeconomy sectors",
+                            "indicators": [
+                                {
+                                    "id": "5.2.c.1",
+                                    "name": "Employment by age in bioeconomy sectors",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.2.c.2",
+                                    "name": "Employment by educational level in bioeconomy sectors",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.2.c.3",
+                                    "name": "Employment by gender in bioeconomy sectors",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.2.c.4",
+                                    "name": "Income by gender by sector",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.2.c.5",
+                                    "name": "Income distribution along bioeconomy value chains",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "name": "Resilience of the rural, coastal and urban economy is enhanced",
+                    "key_components": [
+                        {
+                            "id": "5.3.a",
+                            "name": "Physical infrastructure (accessibility, services)",
+                            "indicators": [
+                                {
+                                    "id": "5.3.a.1",
+                                    "name": "Distance to logistics hubs (territorial dimension)",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.3.c",
+                            "name": "Bioeconomy investments in rural & coastal areas",
+                            "indicators": [
+                                {
+                                    "id": "5.3.c.1",
+                                    "name": "Bioeconomy investments in rural and coastal areas",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.3.c.2",
+                                    "name": "Number of bioeconomy businesses developed with policy support",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.3.d",
+                            "name": "Rural income diversification",
+                            "indicators": [
+                                {
+                                    "id": "5.3.d.1",
+                                    "name": "Transformation of biomass at farm (or coop) level",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "5.3.d.2",
+                                    "name": "Income diversification in rural areas, by farmer age for production and transformation at farm or coop level. ",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "All land (agriculture and forestry)"
+                                },
+                                {
+                                    "id": "5.3.d.3",
+                                    "name": "Income diversification of rural and coastal biomass producers (other than agriculture)",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.3.e",
+                            "name": "Income of primary producers",
+                            "indicators": [
+                                {
+                                    "id": "5.3.e.1",
+                                    "name": "Income of primary producers (fish & seafood landing income, agriculture households, forest owners)",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "All water (fisheries, aquaculture and algae)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "5.4",
+                    "name": "Existing knowledge is adequately valued and proven sound technologies are fostered",
+                    "key_components": [
+                        {
+                            "id": "5.4.a",
+                            "name": "Existing knowledge on bioeconomy technologies",
+                            "indicators": [
+                                {
+                                    "id": "5.4.a.1",
+                                    "name": "Adoption of new bioeconomy technology by primary producers for both production and transformation levels",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.4.a.2",
+                                    "name": "Rolling-out of pilot projects",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.4.a.3",
+                                    "name": "Investment in TRL8-9 bio-based products",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "5.5",
+                    "name": "Knowledge generation and innovation are promoted",
+                    "key_components": [
+                        {
+                            "id": "5.5.a",
+                            "name": "Knowledge generation/ (high level) education",
+                            "indicators": [
+                                {
+                                    "id": "5.5.a.1",
+                                    "name": "% persons employed with 3º education in bioeconomy sectors",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "5.5.a.2",
+                                    "name": "Changes in University curricula (number)",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "5.5.a.3",
+                                    "name": "Investment in higher education related to bioeconomy",
+                                    "value_chain_step": "Manufacturing sectors",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.5.b",
+                            "name": "Research and innovation",
+                            "indicators": [
+                                {
+                                    "id": "5.5.b.1",
+                                    "name": "Number of patents by bioeconomy sectors",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.5.b.2",
+                                    "name": "Investment in research and innovation (1000 eur)",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "5.5.b.3",
+                                    "name": "Open innovation",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "No distinction possible"
+                                },
+                                {
+                                    "id": "5.5.b.4",
+                                    "name": "New non-food products produced from primary sources",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.5.b.5",
+                                    "name": "Number of research outputs in the field of bioeconomy",
+                                    "value_chain_step": "Whole value chain",
+                                    "primary_production_sector": "not applicable"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "5.6",
+                    "name": "Demand and supply-side market mechanisms and policy coherence between supply and demand of food and non-food goods are enhanced",
+                    "key_components": [
+                        {
+                            "id": "5.6.a",
+                            "name": "Market mechanisms (e.g. prices, consumer awareness)",
+                            "indicators": [
+                                {
+                                    "id": "5.6.a.1",
+                                    "name": "Market or consumers acceptance",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "not applicable"
+                                },
+                                {
+                                    "id": "5.6.a.2",
+                                    "name": "Number of labelled or certified bio-based products",
+                                    "value_chain_step": "Users",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5.6.c",
+                            "name": "Resource competition among sectors of the bioeconomy and Biomass demand for new value chains",
+                            "indicators": [
+                                {
+                                    "id": "5.6.c.1",
+                                    "name": "Share biomass uses by primary sector",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                },
+                                {
+                                    "id": "5.6.c.2",
+                                    "name": "Producer prices per primary production sector",
+                                    "value_chain_step": "Primary sectors",
+                                    "primary_production_sector": "Possible to distinguish by sector"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

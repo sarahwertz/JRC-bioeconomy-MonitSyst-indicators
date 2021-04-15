@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "high-input farms",
+            "y": 36.3
+        },
+        {
+            "name": "low-input farms",
+            "y": 27.0
+        },
+        {
+            "name": "medium-input farms",
+            "y": 36.7
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "type": "felling_rates",
+    "categories": [
+        1990,
+        2000,
+        2005,
+        2010
+    ],
+    "series": [
+        {
+            "name": "EU28",
+            "data": [
+                68.0,
+                74.0,
+                75.0,
+                73.0
+            ]
+        },
+        {
+            "name": "Austria",
+            "data": [
+                75.3,
+                60.5,
+                93.5,
+                93.5
+            ],
+            "visible": false
+        },
+        {
+            "name": "Belgium",
+            "data": [
+                89.2,
+                76.9,
+                93.3,
+                84.3
+            ],
+            "visible": false
+        },
+        {
+            "name": "Bulgaria",
+            "data": [
+                34.9,
+                27.7,
+                49.3,
+                48.5
+            ],
+            "visible": false
+        },
+        {
+            "name": "Croatia",
+            "data": [
+                59.3,
+                52.9,
+                59.1,
+                67.0
+            ],
+            "visible": false
+        },
+        {
+            "name": "Cyprus",
+            "data": [
+                110.8,
+                57.6,
+                26.0,
+                19.9
+            ],
+            "visible": false
+        },
+        {
+            "name": "Czechia",
+            "data": [
+                68.0,
+                75.6,
+                84.4,
+                85.2
+            ],
+            "visible": false
+        },
+        {
+            "name": "Denmark",
+            "data": [
+                100.3,
+                100.5,
+                101.0,
+                62.7
+            ],
+            "visible": false
+        },
+        {
+            "name": "Estonia",
+            "data": [
+                35.8,
+                105.5,
+                58.6,
+                63.7
+            ],
+            "visible": false
+        },
+        {
+            "name": "Finland",
+            "data": [
+                72.4,
+                85.9,
+                77.1,
+                73.0
+            ],
+            "visible": false
+        },
+        {
+            "name": "France",
+            "data": [
+                null,
+                null,
+                null,
+                47.3
+            ],
+            "visible": false
+        },
+        {
+            "name": "Germany",
+            "data": [
+                null,
+                76.8,
+                79.1,
+                80.3
+            ],
+            "visible": false
+        },
+        {
+            "name": "Greece",
+            "data": [
+                81.5,
+                null,
+                null,
+                null
+            ],
+            "visible": false
+        },
+        {
+            "name": "Hungary",
+            "data": [
+                72.6,
+                83.8,
+                71.4,
+                76.2
+            ],
+            "visible": false
+        },
+        {
+            "name": "Ireland",
+            "data": [
+                null,
+                null,
+                null,
+                52.5
+            ],
+            "visible": false
+        },
+        {
+            "name": "Italy",
+            "data": [
+                48.0,
+                47.5,
+                42.4,
+                39.2
+            ],
+            "visible": false
+        },
+        {
+            "name": "Latvia",
+            "data": [
+                32.1,
+                87.8,
+                null,
+                65.2
+            ],
+            "visible": false
+        },
+        {
+            "name": "Lithuania",
+            "data": [
+                null,
+                null,
+                87.4,
+                78.3
+            ],
+            "visible": false
+        },
+        {
+            "name": "Netherlands",
+            "data": [
+                58.0,
+                60.8,
+                48.0,
+                47.3
+            ],
+            "visible": false
+        },
+        {
+            "name": "Poland",
+            "data": [
+                null,
+                null,
+                null,
+                74.8
+            ],
+            "visible": false
+        },
+        {
+            "name": "Portugal",
+            "data": [
+                74.6,
+                66.4,
+                75.4,
+                null
+            ],
+            "visible": false
+        },
+        {
+            "name": "Romania",
+            "data": [
+                54.0,
+                49.3,
+                57.4,
+                60.2
+            ],
+            "visible": false
+        },
+        {
+            "name": "Slovakia",
+            "data": [
+                53.7,
+                56.9,
+                70.8,
+                77.4
+            ],
+            "visible": false
+        },
+        {
+            "name": "Slovenia",
+            "data": [
+                34.8,
+                34.7,
+                39.2,
+                37.1
+            ],
+            "visible": false
+        },
+        {
+            "name": "Spain",
+            "data": [
+                61.8,
+                52.6,
+                51.4,
+                55.5
+            ],
+            "visible": false
+        },
+        {
+            "name": "Sweden",
+            "data": [
+                null,
+                null,
+                118.3,
+                101.8
+            ],
+            "visible": false
+        },
+        {
+            "name": "United Kingdom",
+            "data": [
+                40.9,
+                45.9,
+                48.0,
+                50.5
+            ],
+            "visible": false
+        }
+    ]
+}

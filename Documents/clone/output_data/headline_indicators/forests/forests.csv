@@ -1,0 +1,5 @@
+geo_code,time,value,type
+EU28,1990,68.0,felling_rates
+EU28,2000,74.0,felling_rates
+EU28,2005,75.0,felling_rates
+EU28,2010,73.0,felling_rates
